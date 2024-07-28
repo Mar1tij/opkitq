@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your Naruto knowledge!",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who is Naruto?",
+      "answers": ["Ninja", "Sage", "Kage"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Sharingan?",
+      "answers": ["Eye", "Weapon", "Beast"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is Sasuke?",
+      "answers": ["Ninja", "Sage", "Villain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Rasengan?",
+      "answers": ["Jutsu", "Sword", "Seal"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Sakura?",
+      "answers": ["Medic", "Ninja", "Villain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Konoha?",
+      "answers": ["Village", "Clan", "Sword"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Kakashi?",
+      "answers": ["Ninja", "Villain", "Sage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Byakugan?",
+      "answers": ["Eye", "Sword", "Jutsu"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Gaara?",
+      "answers": ["Kage", "Sage", "Beast"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Chidori?",
+      "answers": ["Jutsu", "Seal", "Weapon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Itachi?",
+      "answers": ["Ninja", "Villain", "Sage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Rinnegan?",
+      "answers": ["Eye", "Jutsu", "Clan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Jiraiya?",
+      "answers": ["Sage", "Ninja", "Villain"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Akatsuki?",
+      "answers": ["Group", "Jutsu", "Clan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Orochimaru?",
+      "answers": ["Villain", "Ninja", "Kage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Kurama?",
+      "answers": ["Beast", "Sage", "Sword"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Tsunade?",
+      "answers": ["Kage", "Ninja", "Medic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Nine-Tails?",
+      "answers": ["Beast", "Weapon", "Jutsu"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Shikamaru?",
+      "answers": ["Ninja", "Kage", "Sage"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the Hokage?",
+      "answers": ["Leader", "Village", "Clan"],
       "correctAnswerIndex": 0
     }
   ]
